@@ -117,7 +117,7 @@ h6 {
 }
 
 .page-header p {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(214, 125, 255, 0.8);
 }
 
 .page-header .cta-btn {
@@ -162,7 +162,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background: #ff00d4cc;
   color: #fff;
 }
 
@@ -286,7 +286,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 30px 0;
-  background-color: #000;
+  background-color: hsl(295, 83%, 81%);
 }
 
 .header .logo {
@@ -574,7 +574,7 @@ h6 {
     content: "";
     position: fixed;
     inset: 0;
-    background: rgba(22, 23, 24, 0.8);
+    background: #ecabe4cc;
     z-index: 9996;
   }
 }
@@ -634,7 +634,7 @@ h6 {
 }
 
 .testimonials .testimonial-item .stars i {
-  color: #ffc107;
+  color: hwb(309 77% 3%);
   margin: 0 1px;
 }
 
@@ -649,12 +649,12 @@ h6 {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #fff;
+  color: hsl(330, 100%, 86%);
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #d997ff80;
   margin: 0;
 }
 
@@ -676,7 +676,7 @@ h6 {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: #c496ff80;
 }
 
 .testimonials .swiper-slide {
